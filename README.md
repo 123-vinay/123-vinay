@@ -6,7 +6,7 @@
 
 - 📍 Visakhapatnam, India 
 
-- 👨‍💻 All of my projects are available at [https://123-vinay.github.io/portfolio-personal/](https://123-vinay.github.io/portfolio-personal/)
+- 👨‍💻 This is my Portfolio [https://123-vinay.github.io/portfolio-personal/](https://123-vinay.github.io/portfolio-personal/)
 
 - 📫 How to reach me vinaypabbina@gmail.com | 📞 +91 7207121926
 
